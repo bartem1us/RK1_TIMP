@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/bartem1us/RK1_TIMP.svg?branch=master)](https://travis-ci.org/bartem1us/RK1_TIMP)
