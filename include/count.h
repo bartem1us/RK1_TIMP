@@ -1,7 +1,5 @@
-//
-// Created by bartem1us on 4/13/21.
-//
-#inlcude <iostream>
+
+#include <iostream>
 #include <string>
 
 #ifndef RK1_COUNT_H
